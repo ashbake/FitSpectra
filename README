@@ -1,0 +1,7 @@
+functions/
+Functions for code inclusing gaussian fxn, plotting fxn, and minimizing fxn
+
+Calibrate/
+Modify TAPAS model spectrum to match real spectra of the same wavelength range. Optimization done with NLOPT.
+
+
